@@ -2,11 +2,12 @@
 <div>
   <h1 align="center">Vitrine Shop</h1>
   <ul align="center>
-    <a href="#sobre">Sobre</a>
+    
+  <a href="#sobre">Sobre</a>
     |
-    <a href="#Tecnologias">Tecnólogias</a>
+  <a href="#Tecnologias">Tecnólogias</a>
     |
-    <a href="#Dependencias">Dependências</a>
+  <a href="#Dependencias">Dependências</a>
   </ul>
 </div>
 
@@ -64,7 +65,7 @@
 <div class="Dependencias">
   <h3>Dependêcias</h3>
     <p align="center">
-      para poder utilizar pode fazer a utilização da aplicação, será necessario fazer alguns procedimentos de instalção de pacotes
+      para utilizar da aplicação, será necessario fazer alguns procedimentos de instalção de pacotes
     </p>
 
 ```bash
