@@ -1,16 +1,19 @@
-<h1 alin="center">Vitrine Shop</h1>
+<h1 align="center">Vitrine Shop</h1>
 
-<h2 alin="center"> Projeto com finalidade de fazer uma paginação de um Ecommerce, que oferece produtos eletrônicos, com
+<h2 align="center"> Projeto com finalidade de fazer uma paginação de um Ecommerce, que oferece produtos eletrônicos, com
   finalidade de proporcionar uma experiência agradável para o usuário final. </h2>
 
 <div>
 <h2>Tecnologias e dependecias utilizadas no prejeto</h2>
 
 <ul>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-      alt="Javascript">
-  </a>
+  <ol>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+        alt="Javascript">
+    </a>
+  </ol>
+  
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </a>
