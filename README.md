@@ -1,7 +1,12 @@
-<div>
-  <h1 aling="center">Vitrine Shop</h1>
-  <h2>Tecnologias e dependecias utilizadas no prejeto</h2>
+<h1 alin="center">Vitrine Shop</h1>
 
+<h2 alin="center"> Projeto com finalidade de fazer uma paginação de um Ecommerce, que oferece produtos eletrônicos, com
+  finalidade de proporcionar uma experiência agradável para o usuário final. </h2>
+
+<div>
+<h2>Tecnologias e dependecias utilizadas no prejeto</h2>
+
+<ul>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
       alt="Javascript">
@@ -19,11 +24,9 @@
   </a>
 
   <a href="https://nodejs.org/pt-br/docs/">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-      " alt="Node.js">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+      alt="Node.js">
   </a>
-
+</ul>
+  
 </div>
-
-<h2 aling="center"> Projeto com finalidade de fazer uma paginação de um Ecommerce, que oferece produtos eletrônicos, com
-  finalidade de proporcionar uma experiência agradável para o usuário final. </h2>
