@@ -1,14 +1,17 @@
 
 <div>
   <h1 align="center">Vitrine Shop</h1>
-  <nav>
+  <ul>
     <a href="#sobre">Sobre</a>
+    |
     <a href="#Tecnologias">Tecnólogias</a>
-  </nav>
+    |
+    <a href="#Dependencias">Dependências</a>
+  </ul>
 </div>
 
 <div class="Tecnologias">
-  <h3>Tecnologias</h3>
+  <h3>Tecnologias.</h3>
 <ul>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
@@ -34,10 +37,21 @@
 </ul>
 </div>
 
+
 <div align="center">
-  <h3 class="Sobre" > Projeto com referenciando um Ecommerce, que oferece produtos eletrônicos, com finalidade de proporcionar uma experiência agradável para o usuário final. </h3>
+  <h3>Sobre.</h3>
+  <h4 class="Sobre" > Projeto com referenciando um Ecommerce, que oferece produtos eletrônicos, com finalidade de proporcionar uma experiência agradável para o usuário final. </h4>
+
+  <img src="./src/img/ExempleGif.gif" alt="Gif">
 </div>
 
+<div class="Dependencias">
+  <h3>Dependêcias</h3>
+    <p align="center">
+      para poder utilizar pode fazer a utilização da aplicação, será necessario fazer alguns procedimentos de instalção de pacotes
+    </p>
+      ```bash 
+</div>
 
 
 
