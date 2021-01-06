@@ -1,16 +1,16 @@
-
+d
 <div>
   <h1 align="center">Vitrine Shop</h1>
   
-  <ul align="center>
+  <div align="center">
 
-  <a href="#sobre">Sobre</a>
+  <a href="#sobre">Sobre</a> 
     |
   <a href="#Tecnologias">Tecnólogias</a>
     |
   <a href="#Dependencias">Dependências</a>
  
-  </ul>
+  </div>
 </div>
 
 <div >
