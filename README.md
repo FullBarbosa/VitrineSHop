@@ -1,14 +1,14 @@
-d
+
 <div>
   <h1 align="center">Vitrine Shop</h1>
   
   <div align="center">
 
-  <a href="#sobre">Sobre</a> 
+  <a href=".sobre">Sobre</a> 
     |
-  <a href="#Tecnologias">Tecnólogias</a>
+  <a href=".tecnologias">Tecnólogias</a>
     |
-  <a href="#Dependencias">Dependências</a>
+  <a href=".dependencias">Dependências</a>
  
   </div>
 </div>
@@ -29,13 +29,13 @@ d
 
 <div align="center">
   <h3>Sobre.</h3>
-  <h4 class="Sobre" > Projeto com referenciando um Ecommerce, que oferece produtos eletrônicos, com finalidade de proporcionar uma experiência agradável para o usuário final. </h4>
+  <h4 class="sobre" > Projeto com referenciando um Ecommerce, que oferece produtos eletrônicos, com finalidade de proporcionar uma experiência agradável para o usuário final. </h4>
 
   <img src="./src/img/ExempleGif.gif" alt="Gif">
 </div>
 
 
-<div class="Tecnologias">
+<div class="tecnologias">
   <h3>Tecnológias</h3>
   <ul>
     <li>
@@ -63,7 +63,7 @@ d
   
 </div>
 
-<div class="Dependencias">
+<div class="dependencias">
   <h3>Dependêcias</h3>
     <p align="center">
       para utilizar da aplicação, será necessario fazer alguns procedimentos de instalção de pacotes
