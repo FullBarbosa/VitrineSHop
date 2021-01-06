@@ -50,8 +50,18 @@
     <p align="center">
       para poder utilizar pode fazer a utilização da aplicação, será necessario fazer alguns procedimentos de instalção de pacotes
     </p>
-      ```bash 
-</div>
+
+```bash
+# Clone this repository
+$ git clone https://github.com/FullBarbosa/VitrineSHop.git VitrineSHop
+
+# Install dependencies Yarn
+$ yarn install
+
+# Install dependencies NPM
+$ npm install 
+```
+ </div>
 
 
 
