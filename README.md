@@ -1,7 +1,7 @@
 
 <div>
   <h1 align="center">Vitrine Shop</h1>
-  <ul>
+  <ul align="center>
     <a href="#sobre">Sobre</a>
     |
     <a href="#Tecnologias">Tecnólogias</a>
@@ -10,23 +10,18 @@
   </ul>
 </div>
 
-<div class="Tecnologias">
-  <h3>Tecnologias.</h3>
+<div >
 <ul>
   
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
         alt="Javascript">
-  
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
   alt="Node.js">
-  
-
 </ul>
+
 </div>
 
 
@@ -38,29 +33,25 @@
 </div>
 
 
-<div>
+<div class="Tecnologias">
   <h3>Tecnológias</h3>
   <ul>
     <li>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript.
       </a>
     </li>
-
     <li>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS3.
       </a>
     </li>
-
     <li>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">HTML5.
       </a>
     </li>
-
     <li>
       <a href="https://pt-br.reactjs.org/docs/getting-started.html">REACT.
       </a>
     </li>
-
     <li>
       <a href="https://nodejs.org/pt-br/docs/">
         NODE.JS.
@@ -91,8 +82,5 @@ $ yarn add react-router-dom
 ```
  </div>
 
-
-[nodejs]: https://nodejs.org/
-[yarn]: https://yarnpkg.com/
 
 
