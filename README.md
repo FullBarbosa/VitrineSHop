@@ -1,19 +1,20 @@
 
 <div>
   <h1 align="center">Vitrine Shop</h1>
+  
   <ul align="center>
-    
+
   <a href="#sobre">Sobre</a>
     |
   <a href="#Tecnologias">Tecnólogias</a>
     |
   <a href="#Dependencias">Dependências</a>
+ 
   </ul>
 </div>
 
 <div >
-<ul>
-  
+<ul align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
         alt="Javascript">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
