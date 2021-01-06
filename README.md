@@ -88,7 +88,7 @@ $ yarn add react-router-dom
 
 
 <div id="Projeto">
-  <h3>Projeto</h3>
+  <h3>Projeto.</h3>
   <a href="https://vitrine-sh-op.vercel.app/">
   <img width="200px" src="./src/img/GaleriaExempplo.png" alt="Imagem de pagina web">
   </a>
