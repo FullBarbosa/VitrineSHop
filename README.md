@@ -61,6 +61,11 @@
         NODE.JS.
       </a>
     </li>
+    <li>
+      <a href="https://classic.yarnpkg.com/en/docs/">
+        YARN.
+      </a>
+    </li>
   </ul>
   
 </div>
@@ -83,6 +88,9 @@ $ npm install
 
 # Install React-Router-Dom 
 $ yarn add react-router-dom
+
+# Install history 
+$ yarn add history
 ```
  </div>
 
