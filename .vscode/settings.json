@@ -1,0 +1,12 @@
+{
+  // "git.enabled": false,
+  // "files.exclude":{
+  //   "node_modules": true,
+  //   ".eslintcache":true,
+  //   "public":true,
+  //   "yarn.lock":true,
+  //   "package.json":true,
+  //   ".gitignore":true,
+  //   "package-lock.json":true
+  // }
+}
