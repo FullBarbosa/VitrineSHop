@@ -9,7 +9,9 @@
   <a href="#tecnologias">Tecnólogias</a>
     |
   <a href="#dependencias">Dependências</a>
- 
+    |
+  <a href="#Projeto">Pagina do projeto</a>
+
   </div>
 </div>
 
@@ -27,7 +29,7 @@
 </div>
 
 
-<div align="center">
+<div>
   <h3>Sobre.</h3>
   <h4 id="sobre" > Projeto com referenciando um Ecommerce, que oferece produtos eletrônicos, com finalidade de proporcionar uma experiência agradável para o usuário final. </h4>
 
@@ -36,7 +38,7 @@
 
 
 <div id="tecnologias">
-  <h3>Tecnológias</h3>
+  <h3>Tecnológias.</h3>
   <ul>
     <li>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript.
@@ -64,7 +66,7 @@
 </div>
 
 <div id="dependencias">
-  <h3>Dependêcias</h3>
+  <h3>Dependêcias.</h3>
     <p align="center">
       para utilizar da aplicação, será necessario fazer alguns procedimentos de instalção de pacotes
     </p>
@@ -84,5 +86,12 @@ $ yarn add react-router-dom
 ```
  </div>
 
+
+<div id="Projeto">
+  <h3>Projeto</h3>
+  <a href="https://vitrine-sh-op.vercel.app/">
+  <img width="200px" src="./src/img/GaleriaExempplo.png" alt="Imagem de pagina web">
+  </a>
+</div>
 
 
