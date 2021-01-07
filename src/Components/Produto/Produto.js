@@ -23,7 +23,7 @@ const Produto = () => {
         const json = await response.json();
         setProduto(json);
 
-      } catch (erro) {
+      } catch (error) {
         setError('Um erro ocorreu!');
       } finally {
 
