@@ -31,7 +31,7 @@
 
 <div>
   <h3>Sobre.</h3>
-  <h4 id="sobre" > Projeto com referenciando um Ecommerce, que oferece produtos eletrônicos, com finalidade de proporcionar uma experiência agradável para o usuário final. </h4>
+  <h4 id="sobre" > Projeto com referenci a um Ecommerce, que oferece produtos eletrônicos, com finalidade de proporcionar uma experiência agradável para o usuário final. </h4>
 
   <img src="./src/img/ExempleGif.gif" alt="Gif">
 </div>
@@ -103,3 +103,4 @@ $ yarn add history
 </div>
 
 
+<h3> 🚧 Responsividade mobile 🚧 </h3>
